@@ -1,10 +1,9 @@
 ### Hello there! I'm Ulul 👋
-I am a Data Analyst 
-
-- I'm currently working and learning at : [Jakarta Smart City](https://smartcity.jakarta.go.id/)
-- I write regular blog posts about data on : [Medium](https://medium.com/@nzlul) 
+- Data Analyst
+- Currently working and learning at : [Jakarta Smart City](https://smartcity.jakarta.go.id/)
+- View my regular blog posts about data on : [Medium](https://medium.com/@nzlul) 
 - View my presentation on : [Speakerdeck](https://speakerdeck.com/nzlul)
-- How to reach me : [LinkedIn](https://www.linkedin.com/in/nuzulul-khairu-nissa-137086141/)
+- How to reach me? : [LinkedIn](https://www.linkedin.com/in/nuzulul-khairu-nissa-137086141/)
 
 Skills : Python / R / SQL
 
